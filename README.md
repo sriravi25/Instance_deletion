@@ -1,6 +1,6 @@
 # Instance_deletion
 
-In this file, we are finding the code for the instance termination.
+In this file, we are finding the code for the instance termination/stopping.
 
 # Explanation 
 
